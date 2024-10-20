@@ -2,7 +2,7 @@
 
 ![imagen guillermo](https://guillermopinate.tech/assets/images/fondo.svg)
 <h1 align="center">Hi 👋, I'm Guillermo Piñate</h1>
-<h1 align="center">Fullstack develop</h1>
+<h2 align="center">Fullstack develop</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guille2307&label=Profile%20views&color=0e75b6&style=flat" alt="guille2307" /> </p>
 
