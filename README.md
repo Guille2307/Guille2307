@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **gpinate@gmai.com**
+- 📫 How to reach me **gpinate@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
