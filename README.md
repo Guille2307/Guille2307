@@ -1,4 +1,4 @@
-![imagen guillermo](https://guillermopinate.tech/assets/images/fondo.svg)
+![imagen guillermo](https://photos.google.com/photo/AF1QipNIaOy1suiXNGeiHxjWBvTQ3FEYcVs7hXdLSb-1)
 <h1 align="center">Hi 👋, I'm Guillermo Piñate</h1>
 <h2 align="center">Fullstack develop</h2>
 
