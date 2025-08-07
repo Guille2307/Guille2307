@@ -1,4 +1,4 @@
-![imagen guillermo](https://guillermopinate.tech/assets/images/fondo.svg)
+![imagen guillermo](https://guillermopinate.es/assets/images/fondo.svg)
 <h1 align="center">Hi 👋, I'm Guillermo Piñate</h1>
 <h2 align="center">Fullstack develop</h2>
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Ibermatica](https://www.iberdrola.es/)
 
-- 👨‍💻 All of my projects are available at [guillermopinate.tech](guillermopinate.tech)
+- 👨‍💻 All of my projects are available at [guillermopinate.es](guillermopinate.tech)
 
 - 💬 Ask me about **Angular**
 
